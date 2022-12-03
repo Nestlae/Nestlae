@@ -3,7 +3,7 @@
 
 - 🖥 I’m currently studying on [RMUTT](https://www.rmutt.ac.th/)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Mechine Learning**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Machine Learning**
 
 - 📫 How to reach me **nest_0894@hotmail.com**
 

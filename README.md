@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bundit Songpracha (Nest)</h1>
 <h3 align="center">A computer engineering student from RMUTT</h3>
 
-- 🖥 I’m currently studying on [RMUTT](https://www.rmutt.ac.th/)
+- 🖥 I’m currently studying on **[RMUTT](https://www.rmutt.ac.th/)**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Machine Learning**
 

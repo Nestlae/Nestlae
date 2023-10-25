@@ -7,7 +7,7 @@
 
 - ⌨️ I'm interested in a **Data Management, IoT**
 
-- 📫 How to reach me **nest_0894@hotmail.com**
+- 📫 How to reach me **nescapo0894@gmail.com** (G-mail) or **1163104620153@mail.rmutt.ac.th** (Office 365)
 
 - ⚡ Fun fact **I think I'm funny guy**
 
